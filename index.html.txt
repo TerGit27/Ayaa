@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Klik link</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2 contenteditable="true">HBD Bang Nando!!</h2>
+
+    <div class="WaterMark1">
+        <h3>Dari Haikal:</h3>
+        <h5>Semoga sehat selalu dan makin pinter</h5>
+    </div>
+</body>
+</html>
